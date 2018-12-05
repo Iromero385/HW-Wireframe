@@ -12,4 +12,5 @@ We utilize css positioning properties to make a static frame.
 
 Positioning element with css can be frustrating. In this static frame, we used obsolute and relative positing to achive the desired look.
 
+<h2> Front End </h2>
 <img src="./front.png">
